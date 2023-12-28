@@ -1,0 +1,37 @@
+body{
+    font-family: Georgia, 'Times New Roman', Times, serif; 
+    background-color: rgb(28, 27, 27);
+color: aliceblue;
+}
+
+.style{
+  
+   
+}
+#center{
+text-align: center;
+}
+#right {
+    width: 600px;
+    padding: 10px;
+    border-radius: 60px;
+    height: 321px;
+    float: right;
+    margin-right: 150px;
+    margin-bottom: 10px ;
+}
+#left{
+    width: 600px;
+    padding: 10px;
+    border-radius: 60px;
+    margin-left: 125px;
+    margin-bottom: 10px ;
+    float: left;
+}
+#center2{
+    width: 600px;
+    padding: 10px;
+    border-radius: 60px;
+    margin: auto;
+    clear: both;
+}
